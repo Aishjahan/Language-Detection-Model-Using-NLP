@@ -1,4 +1,4 @@
-# Language Detection Model using NLP - CountVectorizer and Naive Bayes
+# Language Detection Model using NLP 
 
 ## Project Overview
 This project implements a Language Detection Model using Natural Language Processing (NLP) techniques. The model utilizes **CountVectorizer** to convert text into a bag-of-words representation and uses the **Naive Bayes** classifier to predict the language of a given text.
